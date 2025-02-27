@@ -1,0 +1,4 @@
+.thumbnailImage { width: 150px; height: 100px; position: relative; margin: 1%;}
+body { background-color: royalblue}
+#thumbnails {display: flex; justify-content: space-evenly; flex-wrap: wrap;}
+#bigPicture {display: flex; justify-content: center;}
